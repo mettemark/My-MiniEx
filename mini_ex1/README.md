@@ -4,7 +4,7 @@
 
 **Link til mit program**
 
-(https://rawgit.com/mettemark/My-MiniEx/master/mini_ex1/index.html)
+[https://rawgit.com/mettemark/My-MiniEx/master/mini_ex1/index.html]
 
 **Thoughts about my first independent coding process**
 
