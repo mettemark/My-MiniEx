@@ -1,6 +1,6 @@
 **Screenshot of my program**
 
-![ScreenShot](https://github.com/mettemark/My-MiniEx/blob/master/mini_ex1/mini_ex1/Screenshot%20MiniEx1.jpg)
+![ScreenShot](https://github.com/mettemark/My-MiniEx/blob/master/mini_ex2/Screenshot%20miniEx_2.png)
 
 **URL link to my program**
 
