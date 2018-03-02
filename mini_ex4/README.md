@@ -4,4 +4,4 @@
 
 **URL link to my program**
 
-https://rawgit.com/mettemark/My-MiniEx/master/mini_ex3/mini_ex3/index.html
+https://rawgit.com/mettemark/My-MiniEx/master/mini_ex4/empty-example/index.html
