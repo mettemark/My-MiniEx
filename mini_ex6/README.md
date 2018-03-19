@@ -6,4 +6,4 @@
 
 **URL link to my program**
 
-https://rawgit.com/mettemark/My-MiniEx/master/mini_ex5/mini_ex5/index.html
+https://rawgit.com/mettemark/My-MiniEx/master/mini_ex6/mini_ex6/index.html
