@@ -10,7 +10,7 @@
 
 **URL link to my program**
 
-https://rawgit.com/mettemark/My-MiniEx/master/mini_ex6/mini_ex6/index.html
+https://rawgit.com/mettemark/My-MiniEx/master/mini_ex7/mini_ex7/index.html
 
 
 Our project consists of 7 lines from the song "Good Thoughts, Bad Thoughts" by Funkadelic. These 7 lines are first shown in the order they are originally written, but if the user presses the mouse, the lines are rearranged in a different order. Besides the rearrangement the program will also play a soundfile of a person asking the question "dig it?". This is to underline how big a difference the order of lines in a song, poem or another text is. It is in this way made clear that the user has a new reason to reflect on the lyric even though all the lines are the same. 
