@@ -1,6 +1,6 @@
 **Screenshot of my program**
 
-![ScreenShot](https://github.com/mettemark/My-MiniEx/blob/master/mini_ex6/Sk%C3%A6rmbillede%202018-03-19%20kl.%2016.22.05.png)
+![ScreenShot](https://github.com/mettemark/My-MiniEx/blob/master/mini_ex7/29243134_10212055453284532_1929338908_o.png)
 
 
 
