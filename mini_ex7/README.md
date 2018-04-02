@@ -17,6 +17,7 @@ https://rawgit.com/mettemark/My-MiniEx/master/mini_ex7/mini_ex7/index.html
 
 
 **My own thoughts**
+
 Our project consists of 7 lines from the song "Good Thoughts, Bad Thoughts" by Funkadelic. These 7 lines are first shown in the order they are originally written, but if the user presses the mouse, the lines are rearranged in a different order. Besides the rearrangement the program will also play a soundfile of a person asking the question "dig it?". This is to underline how big a difference the order of lines in a song, poem or another text is. It is in this way made clear that the user has a new reason to reflect on the lyric even though all the lines are the same. 
 
 Besides the external expression of the program, we have worked a lot with the code itself. We have for example named a variable containing the textfile "dont_worry" because this is one of the messages we get from reading and listening to the song "Good Thoughts, Bad Thoughts", and something we wanted to pass on to the reader of the code. 
@@ -27,6 +28,7 @@ In relation to the text "Vocable Code", I find it interesting to look at how our
 
 
 **Sara's thoughts**
+
 Our program is a page with seven lines of text that becomes gradually brighter down the lines. The lines sort of form a poem, and this poem is randomly generated from 7-8 existing sentences that is found in the text file dig_it.txt. We used the lyrics from the second verse of the song Good Thoughts, Bad Thoughts by Funkadelic. When you click the mouse, the program shuffles the order of the sentences, and a new poem is generated. Whenever you make a new poem by clicking the mouse, the program sort of communicates to you and asks you if you like the poem by saying "Dig it?".
 
 The syntaxes that make this code excecute are quite simple; actually we only need 24 lines of source code for the code to execute, to work as it should. However, we wanted to work more with the source code and change it in a way that would not have any effect on the executing code - so something that exists is in the code but is not visible unless you read through the source code. We implemented the entire lyrics of the song by Funkadelic that I spoke of earlier, and as a result our source code consists of 91 lines instead of just 24. A major part of the source code has now become unreadable by the computer - most of the source code is really directed to humans and is not meant to be understood by a computer.
