@@ -1,6 +1,7 @@
 **MiniEx 7 - Dig It?** By Sara Poulsen & Mette Mark Sørensen
 
 
+
 **Screenshot of my program**
 
 ![ScreenShot](https://github.com/mettemark/My-MiniEx/blob/master/mini_ex7/29250782_10212055453004525_1480665115_o.png)
@@ -11,9 +12,12 @@
 
 
 
+
 **URL link to my program**
 
 https://rawgit.com/mettemark/My-MiniEx/master/mini_ex7/mini_ex7/index.html
+
+
 
 
 **My own thoughts**
@@ -25,6 +29,8 @@ We have tried using the visual expression of the code as well. Again this was to
 We have also tried to mirror the way the user is asked if he/she digs it in the middle of the code (line 48) by adding a question for the reader as a comment. In this way the reader will hopefully again reflect on the previous lines and if he agrees or not, or simply if he digs it. 
 
 In relation to the text "Vocable Code", I find it interesting to look at how our code says so much more, and gives a different message if a person reads it rather than just look at the program. Some of the message is not delivered to the user unless he/she looks closer at the code behind the program. In this way we are entirely writing the code for the reader and not the computer, and in some way we underline the fact that computers do not have the ability to reflect upon things the way humans do. **Dig It?**
+
+
 
 
 **Sara's thoughts**
