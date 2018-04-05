@@ -10,6 +10,8 @@ When the city is set to Aarhus
 
 
 
+
+
 When the city is set to Dubai
 
 ![ScreenShot](https://github.com/mettemark/My-MiniEx/blob/master/mini_ex8/Sk%C3%A6rmbillede%202018-04-05%20kl.%2012.54.24.png)
@@ -21,7 +23,7 @@ When the city is set to Dubai
 
 https://rawgit.com/mettemark/My-MiniEx/master/mini_ex7/mini_ex7/index.html
 
-
+https://rawgit.com/mettemark/My-MiniEx/master/mini_ex8/mini_ex8/index.html
 
 
 **My own thoughts**
