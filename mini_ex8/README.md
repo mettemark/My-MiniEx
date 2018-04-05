@@ -21,7 +21,6 @@ When the city is set to Dubai
 
 **URL link to the program**
 
-https://rawgit.com/mettemark/My-MiniEx/master/mini_ex7/mini_ex7/index.html
 
 https://rawgit.com/mettemark/My-MiniEx/master/mini_ex8/mini_ex8/index.html
 
