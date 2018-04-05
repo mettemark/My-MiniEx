@@ -2,11 +2,15 @@
 
 
 
-**Screenshot of my program**
+**Screenshots of the program**
 
-![ScreenShot](https://github.com/mettemark/My-MiniEx/blob/master/mini_ex7/29250782_10212055453004525_1480665115_o.png)
+When the city is set to Aarhus
+
+![ScreenShot](https://github.com/mettemark/My-MiniEx/blob/master/mini_ex8/Sk%C3%A6rmbillede%202018-04-05%20kl.%2012.50.56.png)
 
 
+
+When the city is set to Dubai
 
 ![ScreenShot](https://github.com/mettemark/My-MiniEx/blob/master/mini_ex7/29243134_10212055453284532_1929338908_o.png)
 
