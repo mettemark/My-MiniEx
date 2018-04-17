@@ -16,6 +16,10 @@ https://github.com/mettemark/My-MiniEx/tree/master/mini_ex8
 
 The difficulty in drawing the flowchart was for me to figure out which steps were important for me to go in detail with. I especially thought a lot about the part with the API - it is of course a bit complex, and therefore I did cinsider writing more steps about the API into the code (such as 'define API key'). In the end i decided on not to describe the API in detail, as I found it did not mean a lot for the understanding of the project as a whole. 
 
+
+
+**First group flowchart - Stay woke**
+
 ![ScreenShot](https://github.com/mettemark/My-MiniEx/blob/master/mini_ex9/30581676_10215872556713000_4885736401137565696_o.png)
 
 Flowchart 1: Stay woke
@@ -26,6 +30,8 @@ In this project, we want to use two different API’s; one that collects the hea
 Another technical difficulty will occur when the API-data increases - we have to be very calculated in terms of how much the “garbage island” should grow. This probably requires some experimenting in terms of investigating how much the level of pollution actually grows, and how we can reflect and put emphasis on this in our program. 
 
 
+
+**Second group flowchart - Grab them by the pussy - Pussy Grabs Back**
 
 ![ScreenShot](https://github.com/mettemark/My-MiniEx/blob/master/mini_ex9/30594747_10215872465070709_1281242001991270400_o.png)
 
