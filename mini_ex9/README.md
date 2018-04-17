@@ -1,6 +1,6 @@
 **Flowchart of my chosen program - mini_ex8**
 
-![ScreenShot](https://github.com/mettemark/My-MiniEx/blob/master/mini_ex8/Sk%C3%A6rmbillede%202018-04-05%20kl.%2012.50.56.png)
+![ScreenShot](https://github.com/mettemark/My-MiniEx/blob/master/mini_ex9/Sk%C3%A6rmbillede%202018-04-12%20kl.%2012.40.22.png)
 
 
 
